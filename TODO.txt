@@ -1,0 +1,4 @@
+- Start localhosting everything (personal websites, google sheet with the results)
+- Improve responsivity
+- If we stick with Tailwind, build it locally
+- Add a static site generator/templating so that we have something like components
